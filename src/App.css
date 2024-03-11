@@ -13,6 +13,9 @@
 	background-color: #010607;
 	color: rgb(253, 253, 254);
 }
+.selector {
+	background-color: rgb(212, 255, 0);
+  }
 
 @media screen and (max-width: 480px) {
 	.app-heading {
