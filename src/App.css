@@ -11,7 +11,7 @@
 }
 .dark {
 	background-color: #151515;
-	color: rgb(93, 199, 206);
+	color: rgb(233, 240, 241);
 }
 
 @media screen and (max-width: 480px) {
