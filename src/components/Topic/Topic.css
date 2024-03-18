@@ -29,7 +29,7 @@
 
 /* Marked Incomplete */
 .Toastify__toast.toast-Incomplete {
-	background: #007bff;
+	background: #ff00cc;
 }
 
 .Toastify__toast.toast-Incomplete .Toastify__progress-bar {
