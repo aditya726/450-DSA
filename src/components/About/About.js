@@ -107,15 +107,7 @@ export default function About({ resetData, exportData, importData }) {
 							</Badge>
 						</h5>
 						<h3 className="text-center my-5">
-							<Badge>
-								For the{" "}
-								<span role="img" aria-label="orange-hearth" className="emojiFix">
-									🧡
-								</span>{" "}
-								to code{" "}
-								<span role="img" aria-label="victory" className="emojiFix">
-									✌🏻
-								</span>
+							Get your dream placement <span role="img" aria-label="smile"></span>
 							</Badge>{" "}
 						</h3>
 						<input type="file" id="file" ref={inputFile} style={{ display: "none" }} accept=".json" onChange={handleChange} />
