@@ -63,12 +63,7 @@ export default function About({ resetData, exportData, importData }) {
 						</h2>
 						<h4 className="text-center my-5">
 							Project by{" "}
-							<a href="https://www.linkedin.com/in/asishraju/" target="_blank" rel="noopener noreferrer">
-								Asish
-							</a>{" "}
-							<span role="img" aria-label="code-men">
-								👨🏻‍💻
-							</span>
+							Group 2
 						</h4>
 						<h5 className="text-center">
 							<Badge
