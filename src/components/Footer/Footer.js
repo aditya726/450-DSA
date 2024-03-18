@@ -8,7 +8,7 @@ export default function Footer({ dark, setDark }) {
 			<footer className="footer" style={{ backgroundColor: dark ? "#393E46" : "" }}>
 				<div className="d-flex bd-highlight">
 					<div className="p-2 bd-highlight">
-						<a href="https://github.com/AsishRaju/450-DSA">
+						<a href="https://github.com/aditya726/450-DSA">
 							<h4>
 								<Badge pill variant="light" className="hvr-grow">
 									<span role="img" aria-label="star" className="emojiFix">
