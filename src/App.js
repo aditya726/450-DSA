@@ -102,7 +102,7 @@ function App() {
 				Want to test your DSA  skills and get recruiters to see your strong coding profile. Register here !
 				</a>
 			</div> */}
-        <h1 className="app-heading text-center mt-4" style={{ color: dark ? "white" : "" }}>
+        <h1 className="app-heading text-center mt-4" style={{ color: dark ? "white" : "yellow" }}>
           450 DSA Tracker
         </h1>
 
