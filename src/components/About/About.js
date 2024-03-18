@@ -61,10 +61,10 @@ export default function About({ resetData, exportData, importData }) {
 								🙏🏻
 							</span>
 						</h2>
-						<h4 className="text-center my-5">
+						<h2 className="text-center my-5">
 							Project by{" "}
 							Group 2
-						</h4>
+						</h2>
 						<h5 className="text-center">
 							<Badge
 								variant="danger"
