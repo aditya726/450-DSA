@@ -33,7 +33,7 @@
 }
 
 .Toastify__toast.toast-Incomplete .Toastify__progress-bar {
-	background: #aad0f6;
+	background: #aaf6bb;
 }
 
 .sort-button {
@@ -140,7 +140,7 @@
 }
 
 .question-link:hover {
-	color: rgb(0, 115, 192);
+	color: rgb(192, 173, 0);
 }
 .header-rand {
 	display: flex;
